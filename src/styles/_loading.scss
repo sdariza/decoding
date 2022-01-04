@@ -1,0 +1,12 @@
+.loading-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .loading-content{
+        padding-top: 100px;
+        p{
+            margin-left: -30px;
+            margin-top: 10px;
+        }
+    }
+}
