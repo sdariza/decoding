@@ -10,7 +10,7 @@ const ValidateClick =({code})=>{
 
     const validateCode = ()=>{
         if (code === "00K"){
-            history.push('decoding');
+            history.push('/getTrama');
         }else{
             handleShow();
         }
@@ -19,7 +19,7 @@ const ValidateClick =({code})=>{
   return (
     <>
       <Button variant="primary" onClick={()=> validateCode()}>
-        Launch demo modal
+        Enviar
       </Button>
 
       <Modal show={show} onHide={handleClose}>
