@@ -1,3 +1,5 @@
+## Se debe ingresar 00K en el input inicial. Ya que se simuló la solicitud de la respectiva trama.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
