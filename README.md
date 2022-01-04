@@ -1,3 +1,13 @@
+# Crear archivo .env basado en el .env.example
+El .env debe estar en la misma ruta que el .env.example
+
+REACT_APP_HTTP_API --> debe poseer la url de la API sin endpoint.
+
+```
+mkdir .env
+```
+
+
 ## Se debe ingresar 00K en el input inicial. Ya que se simuló la solicitud de la respectiva trama.
 
 # Getting Started with Create React App
